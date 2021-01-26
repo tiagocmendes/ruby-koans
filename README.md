@@ -1,2 +1,2 @@
 # ruby-koans
-Repository to solve rubykoans.com
+Repository to solve [rubykoans.com](http://rubykoans.com/)
